@@ -47,7 +47,7 @@ A seguinte ferramenta foi usada na construção do projeto:
 
 ## 🦸 Autor
 
- <img style="border-radius: 50%;" src="https://www.facebook.com/photo.php?fbid=10222789437744915&set=pb.1244658587.-2207520000..&type=3" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHEAO7lZFv_DQ/profile-displayphoto-shrink_100_100/0/1628044108879?e=2147483647&v=beta&t=THXLaSYL1EF43H1OCCCJVn2m-Cz2HY535lqkyam17B8" width="100px;" alt=""/>
  <br />
  <sub><b>Henrique M. Kronhardt</b></sub></a>
  <br />
@@ -103,7 +103,7 @@ The following tool was used in building the project:
 
 ## Author
 
- <img style="border-radius: 50%;" src="https://www.facebook.com/photo.php?fbid=10222789437744915&set=pb.1244658587.-2207520000..&type=3" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQHEAO7lZFv_DQ/profile-displayphoto-shrink_100_100/0/1628044108879?e=2147483647&v=beta&t=THXLaSYL1EF43H1OCCCJVn2m-Cz2HY535lqkyam17B8" width="100px;" alt=""/>
  <br />
  <sub><b>Henrique M. Kronhardt</b></sub></a>
  <br />
